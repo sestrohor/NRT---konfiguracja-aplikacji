@@ -1,0 +1,291 @@
+{
+  "app": {
+    "version": "2.0.13",
+    "uuid": "b287b943-7cad-4e9a-a5a4-e637be08841b",
+    "secret": "myNewPassword123",
+    "config_at_startup": true,
+    "save_path": "C:\\Users\\pstanczyk\\AppData\\Roaming\\visualticket-browser",
+    "operating_mode": "systemv2",
+    "fiscal": {
+      "enabled": false,
+      "port": "Posnet D",
+      "bound_rate": "115200",
+      "description_length": "",
+      "tax": [
+        {
+          "index": "1",
+          "value": "8"
+        },
+        {
+          "index": "0",
+          "value": "23"
+        },
+        {
+          "index": "2",
+          "value": "5"
+        },
+        {
+          "index": "3",
+          "value": "0"
+        },
+        {
+          "index": "4",
+          "value": "zw"
+        }
+      ],
+      "payments": [
+        {
+          "index": "0",
+          "value": "1"
+        },
+        {
+          "index": "2",
+          "value": "2"
+        },
+        {
+          "index": "6",
+          "value": "3.4"
+        },
+        {
+          "index": "7",
+          "value": "10"
+        }
+      ],
+      "opendrwr": false,
+      "confirm_payment": false,
+      "confirm_payment_always": false,
+      "fiscal_printer": {
+        "type": "Posnet"
+      },
+      "single_print": false,
+      "wait_after_pdf_save": -1
+    },
+    "passticket": {
+      "enabled": false,
+      "on_fiscal": false,
+      "printer": "",
+      "layout": "portrait",
+      "single_print": false,
+      "wait_after_pdf_save": -1
+    },
+    "label": {
+      "enabled": false,
+      "on_fiscal": false,
+      "printer": "",
+      "layout": "portrait",
+      "single_print": false,
+      "wait_after_pdf_save": -1
+    },
+    "ticket": {
+      "enabled": true,
+      "on_fiscal": false,
+      "printer": "Microsoft Print to PDF",
+      "width": 0,
+      "height": 0,
+      "layout": "landscape",
+      "margins": {
+        "enabled": false,
+        "top": 0,
+        "bottom": 0,
+        "right": 0,
+        "left": 0
+      },
+      "rasterize": false,
+      "rotation": 0,
+      "units": "mm",
+      "scalecontent": true,
+      "single_print": false,
+      "wait_after_pdf_save": -1
+    },
+    "payment-terminal-eservice": {
+      "enabled": false,
+      "port": "",
+      "cashier": "1"
+    },
+    "cashbox_no": "",
+    "payment-terminal": {
+      "enabled": false,
+      "port": "",
+      "bound_rate": "9600",
+      "token": ""
+    },
+    "printers": {
+      "list": [
+        "Microsoft XPS Document Writer",
+        "OneNote for Windows 10",
+        "Microsoft Print to PDF",
+        "TSC ME240",
+        "Fax",
+        "OneNote (Desktop)"
+      ]
+    },
+    "is_logged": true,
+    "serialports": {
+      "list": [
+        {
+          "comPort": "COM3",
+          "friendlyName": "Intel(R) Active Management Technology - SOL (COM3)",
+          "portDescription": "Serial0",
+          "boundRate": 9600
+        },
+        {
+          "comPort": "COM4",
+          "friendlyName": "Urządzenie szeregowe USB (COM4)",
+          "portDescription": "Posnet D",
+          "boundRate": 9600
+        }
+      ]
+    },
+    "cashbox": {
+      "location_desk": [
+        {
+          "label": "Baszta Sandomierska",
+          "value": "56216c5b047ea6c54c1a26f71c9e23"
+        },
+        {
+          "label": "Bileter Dziedziniec",
+          "value": "ec326ee8c746985b2fbe1b5e9828f8"
+        },
+        {
+          "label": "Biuro rezerwacji 1 KK",
+          "value": "aeb6e07bcbe271e35cf5cb5673f0bc"
+        },
+        {
+          "label": "Biuro rezerwacji 2",
+          "value": "efdcec2d7f2504abe7116c5dfe2431"
+        },
+        {
+          "label": "Biuro rezerwacji 3",
+          "value": "96d2f8d5d36cbab698bebcb4d1a579"
+        },
+        {
+          "label": "Biuro rezerwacji 4",
+          "value": "37a055c6a65950d19546e61ed46fe5"
+        },
+        {
+          "label": "Centrum Informacji",
+          "value": "037c89eb5f5f78688206d795ef7275"
+        },
+        {
+          "label": "Kasa biletowa 1",
+          "value": "06715e61e4b5abf8f37fa868c330d2"
+        },
+        {
+          "label": "Kasa biletowa 2",
+          "value": "036a09f8e729dec0f147ab19667f53"
+        },
+        {
+          "label": "Kasa biletowa 3",
+          "value": "86ec5348861ac9e1622e0679ce4e03"
+        },
+        {
+          "label": "Kasa biletowa 4 (PS)",
+          "value": "173e4707854ba8143b5e699acf0eab"
+        },
+        {
+          "label": "Kasa Herbowa",
+          "value": "33bac09a35780653276bd3d7858f8d"
+        },
+        {
+          "label": "Kościół Św. Gereona",
+          "value": "2fbae4e7fdc02064303f880e2f8cad"
+        },
+        {
+          "label": "Lewy ekran nad kasami",
+          "value": "31f26b18f42d474535200d2ee0d9e6"
+        },
+        {
+          "label": "Małe ekrany przy kasach",
+          "value": "28ec975a64d56688d1cd8083c556c0"
+        },
+        {
+          "label": "Mobilny Kiermasz Wawelski",
+          "value": "48f425dbe066734f09cebfd61605dc"
+        },
+        {
+          "label": "Ogrody Królewskie",
+          "value": "98117c9968a8ee781bd7cafd5a6cef"
+        },
+        {
+          "label": "Pieskowa Skała Kasa biletowa",
+          "value": "105af3a9bda4efc47f5d1aa0b39fc8"
+        },
+        {
+          "label": "Prawy ekran nad kasami",
+          "value": "95356613b5574eb072a75db654585c"
+        },
+        {
+          "label": "Prywatne Apartamenty",
+          "value": "55839052ecc51829302ea91339e55b"
+        },
+        {
+          "label": "Raportowe testowe",
+          "value": "36b26ae068d3abc0be76830f2d1637"
+        },
+        {
+          "label": "Recepcja Komnaty Królewskie",
+          "value": "ed6dc45ef4d80a80ea90704960ece9"
+        },
+        {
+          "label": "Recepcja Przemian Stylowych",
+          "value": "4d638168d597ad86ef82bf0fd8257b"
+        },
+        {
+          "label": "Recepcja Skarbca",
+          "value": "7136eb7ee8f2eec03696eb69e00066"
+        },
+        {
+          "label": "Recepcja Sztuki Staropolskiej",
+          "value": "420e52ae224465e8e55bc7aed3bde1"
+        },
+        {
+          "label": "Recepcja Sztuki Wschodu I p.",
+          "value": "5e99801988da6a7a84378ef50db558"
+        },
+        {
+          "label": "Recepcja Sztuki Wschodu II p.",
+          "value": "ee69fb052c7821b8d694f919768b39"
+        },
+        {
+          "label": "Recepcja Wawelu Odzyskanego",
+          "value": "fae6a97c6f31e882c4ade207773d8f"
+        },
+        {
+          "label": "Recepcja Wawelu Zaginionego",
+          "value": "f3dfe1a19bbfdab35f45a90a2b8f0a"
+        },
+        {
+          "label": "Recepcja Zbrojowni",
+          "value": "145c695cd97d4c13d43bc0be7b91a1"
+        },
+        {
+          "label": "Smocza Jama",
+          "value": "58193689d63c9417a699da820b0ffe"
+        },
+        {
+          "label": "Stryszów Kasa biletowa",
+          "value": "f55343b3b22033b4dafb3e46866263"
+        },
+        {
+          "label": "Totem przed B9",
+          "value": "1fa56b042db16a02bde32409061d63"
+        },
+        {
+          "label": "Totem przy Herbowej",
+          "value": "007f2d97a12823d7c517b9c77eddb6"
+        },
+        {
+          "label": "ZKnW - Domyślne",
+          "value": "9c7519b0f9f7f1ee3653"
+        }
+      ],
+      "location_hash": "173e4707854ba8143b5e699acf0eab"
+    },
+    "profiles": []
+  },
+  "system": {
+    "host": "testy.nrt.systembiletowy.pl",
+    "protocol": "https://"
+  },
+  "basePath": "C:\\NRT-APP\\"
+}

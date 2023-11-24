@@ -1,0 +1,2 @@
+[2023-11-24 4:01 PM] Automatyczne uruchomienie porgramu
+[2023-11-24 4:01 PM] Lokalny plik nowszy od serwera

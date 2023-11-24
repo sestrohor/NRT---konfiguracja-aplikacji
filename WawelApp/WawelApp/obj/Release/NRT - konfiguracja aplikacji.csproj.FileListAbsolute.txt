@@ -1,0 +1,17 @@
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Release\WawelApp.exe.config
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Release\WawelApp.exe.manifest
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Release\WawelApp.application
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Release\WawelApp.exe
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Release\WawelApp.pdb
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Release\NRT - konfiguracja aplikacji.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Release\WawelApp.Properties.Resources.resources
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Release\NRT - konfiguracja aplikacji.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Release\NRT - konfiguracja aplikacji.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Release\WawelApp.exe.manifest
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Release\WawelApp.application
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Release\NRT - konfiguracja aplikacji.csproj.CopyComplete
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Release\WawelApp.exe
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Release\WawelApp.pdb
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Release\WawelApp.NRTKonfiguracjaAplikacji.resources

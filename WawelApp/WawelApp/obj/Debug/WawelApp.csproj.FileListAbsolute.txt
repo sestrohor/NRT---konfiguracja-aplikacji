@@ -1,0 +1,13 @@
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Debug\WawelApp.exe.config
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Debug\WawelApp.exe
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Debug\WawelApp.pdb
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Debug\WawelApp.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Debug\WawelApp.NRTKonfiguracjaAplikacji.resources
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Debug\WawelApp.Properties.Resources.resources
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Debug\WawelApp.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Debug\WawelApp.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Debug\WawelApp.exe
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Debug\WawelApp.pdb
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Filip\source\repos\WawelApp\WawelApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Filip\source\repos\WawelApp\WawelApp\obj\Debug\WawelApp.csproj.CopyComplete
